@@ -1,0 +1,1827 @@
+[
+  {
+    "day": 1,
+    "reference": "1 Chronicles 1-4",
+    "url": "https://www.bible.com/bible/111/1Chronicles.1.NIV"
+  },
+  {
+    "day": 2,
+    "reference": "1 Chronicles 5-8",
+    "url": "https://www.bible.com/bible/111/1Chronicles.5.NIV"
+  },
+  {
+    "day": 3,
+    "reference": "1 Chronicles 9-12",
+    "url": "https://www.bible.com/bible/111/1Chronicles.9.NIV"
+  },
+  {
+    "day": 4,
+    "reference": "1 Chronicles 13-16",
+    "url": "https://www.bible.com/bible/111/1Chronicles.13.NIV"
+  },
+  {
+    "day": 5,
+    "reference": "1 Chronicles 17-20",
+    "url": "https://www.bible.com/bible/111/1Chronicles.17.NIV"
+  },
+  {
+    "day": 6,
+    "reference": "1 Chronicles 21-24",
+    "url": "https://www.bible.com/bible/111/1Chronicles.21.NIV"
+  },
+  {
+    "day": 7,
+    "reference": "1 Chronicles 25-28",
+    "url": "https://www.bible.com/bible/111/1Chronicles.25.NIV"
+  },
+  {
+    "day": 8,
+    "reference": "1 Chronicles 29; 1 Corinthians 1-3",
+    "url": "https://www.bible.com/bible/111/1Chronicles.29.NIV"
+  },
+  {
+    "day": 9,
+    "reference": "1 Corinthians 4-7",
+    "url": "https://www.bible.com/bible/111/1Corinthians.4.NIV"
+  },
+  {
+    "day": 10,
+    "reference": "1 Corinthians 8-11",
+    "url": "https://www.bible.com/bible/111/1Corinthians.8.NIV"
+  },
+  {
+    "day": 11,
+    "reference": "1 Corinthians 12-15",
+    "url": "https://www.bible.com/bible/111/1Corinthians.12.NIV"
+  },
+  {
+    "day": 12,
+    "reference": "1 Corinthians 16; 1 John 1-3",
+    "url": "https://www.bible.com/bible/111/1Corinthians.16.NIV"
+  },
+  {
+    "day": 13,
+    "reference": "1 John 4-5; 1 Kings 1-2",
+    "url": "https://www.bible.com/bible/111/1John.4.NIV"
+  },
+  {
+    "day": 14,
+    "reference": "1 Kings 3-6",
+    "url": "https://www.bible.com/bible/111/1Kings.3.NIV"
+  },
+  {
+    "day": 15,
+    "reference": "1 Kings 7-10",
+    "url": "https://www.bible.com/bible/111/1Kings.7.NIV"
+  },
+  {
+    "day": 16,
+    "reference": "1 Kings 11-14",
+    "url": "https://www.bible.com/bible/111/1Kings.11.NIV"
+  },
+  {
+    "day": 17,
+    "reference": "1 Kings 15-18",
+    "url": "https://www.bible.com/bible/111/1Kings.15.NIV"
+  },
+  {
+    "day": 18,
+    "reference": "1 Kings 19-22",
+    "url": "https://www.bible.com/bible/111/1Kings.19.NIV"
+  },
+  {
+    "day": 19,
+    "reference": "1 Peter 1-4",
+    "url": "https://www.bible.com/bible/111/1Peter.1.NIV"
+  },
+  {
+    "day": 20,
+    "reference": "1 Peter 5; 1 Samuel 1-3",
+    "url": "https://www.bible.com/bible/111/1Peter.5.NIV"
+  },
+  {
+    "day": 21,
+    "reference": "1 Samuel 4-7",
+    "url": "https://www.bible.com/bible/111/1Samuel.4.NIV"
+  },
+  {
+    "day": 22,
+    "reference": "1 Samuel 8-11",
+    "url": "https://www.bible.com/bible/111/1Samuel.8.NIV"
+  },
+  {
+    "day": 23,
+    "reference": "1 Samuel 12-15",
+    "url": "https://www.bible.com/bible/111/1Samuel.12.NIV"
+  },
+  {
+    "day": 24,
+    "reference": "1 Samuel 16-19",
+    "url": "https://www.bible.com/bible/111/1Samuel.16.NIV"
+  },
+  {
+    "day": 25,
+    "reference": "1 Samuel 20-23",
+    "url": "https://www.bible.com/bible/111/1Samuel.20.NIV"
+  },
+  {
+    "day": 26,
+    "reference": "1 Samuel 24-27",
+    "url": "https://www.bible.com/bible/111/1Samuel.24.NIV"
+  },
+  {
+    "day": 27,
+    "reference": "1 Samuel 28-31",
+    "url": "https://www.bible.com/bible/111/1Samuel.28.NIV"
+  },
+  {
+    "day": 28,
+    "reference": "1 Thessalonians 1-4",
+    "url": "https://www.bible.com/bible/111/1Thessalonians.1.NIV"
+  },
+  {
+    "day": 29,
+    "reference": "1 Thessalonians 5; 1 Timothy 1-3",
+    "url": "https://www.bible.com/bible/111/1Thessalonians.5.NIV"
+  },
+  {
+    "day": 30,
+    "reference": "1 Timothy 4-6; 2 Chronicles 1",
+    "url": "https://www.bible.com/bible/111/1Timothy.4.NIV"
+  },
+  {
+    "day": 31,
+    "reference": "2 Chronicles 2-5",
+    "url": "https://www.bible.com/bible/111/2Chronicles.2.NIV"
+  },
+  {
+    "day": 32,
+    "reference": "2 Chronicles 6-9",
+    "url": "https://www.bible.com/bible/111/2Chronicles.6.NIV"
+  },
+  {
+    "day": 33,
+    "reference": "2 Chronicles 10-13",
+    "url": "https://www.bible.com/bible/111/2Chronicles.10.NIV"
+  },
+  {
+    "day": 34,
+    "reference": "2 Chronicles 14-17",
+    "url": "https://www.bible.com/bible/111/2Chronicles.14.NIV"
+  },
+  {
+    "day": 35,
+    "reference": "2 Chronicles 18-21",
+    "url": "https://www.bible.com/bible/111/2Chronicles.18.NIV"
+  },
+  {
+    "day": 36,
+    "reference": "2 Chronicles 22-25",
+    "url": "https://www.bible.com/bible/111/2Chronicles.22.NIV"
+  },
+  {
+    "day": 37,
+    "reference": "2 Chronicles 26-29",
+    "url": "https://www.bible.com/bible/111/2Chronicles.26.NIV"
+  },
+  {
+    "day": 38,
+    "reference": "2 Chronicles 30-33",
+    "url": "https://www.bible.com/bible/111/2Chronicles.30.NIV"
+  },
+  {
+    "day": 39,
+    "reference": "2 Chronicles 34-36; 2 Corinthians 1",
+    "url": "https://www.bible.com/bible/111/2Chronicles.34.NIV"
+  },
+  {
+    "day": 40,
+    "reference": "2 Corinthians 2-5",
+    "url": "https://www.bible.com/bible/111/2Corinthians.2.NIV"
+  },
+  {
+    "day": 41,
+    "reference": "2 Corinthians 6-9",
+    "url": "https://www.bible.com/bible/111/2Corinthians.6.NIV"
+  },
+  {
+    "day": 42,
+    "reference": "2 Corinthians 10-13",
+    "url": "https://www.bible.com/bible/111/2Corinthians.10.NIV"
+  },
+  {
+    "day": 43,
+    "reference": "2 John 1; 2 Kings 1-3",
+    "url": "https://www.bible.com/bible/111/2John.1.NIV"
+  },
+  {
+    "day": 44,
+    "reference": "2 Kings 4-7",
+    "url": "https://www.bible.com/bible/111/2Kings.4.NIV"
+  },
+  {
+    "day": 45,
+    "reference": "2 Kings 8-11",
+    "url": "https://www.bible.com/bible/111/2Kings.8.NIV"
+  },
+  {
+    "day": 46,
+    "reference": "2 Kings 12-15",
+    "url": "https://www.bible.com/bible/111/2Kings.12.NIV"
+  },
+  {
+    "day": 47,
+    "reference": "2 Kings 16-19",
+    "url": "https://www.bible.com/bible/111/2Kings.16.NIV"
+  },
+  {
+    "day": 48,
+    "reference": "2 Kings 20-23",
+    "url": "https://www.bible.com/bible/111/2Kings.20.NIV"
+  },
+  {
+    "day": 49,
+    "reference": "2 Kings 24-25; 2 Peter 1-2",
+    "url": "https://www.bible.com/bible/111/2Kings.24.NIV"
+  },
+  {
+    "day": 50,
+    "reference": "2 Peter 3; 2 Samuel 1-3",
+    "url": "https://www.bible.com/bible/111/2Peter.3.NIV"
+  },
+  {
+    "day": 51,
+    "reference": "2 Samuel 4-7",
+    "url": "https://www.bible.com/bible/111/2Samuel.4.NIV"
+  },
+  {
+    "day": 52,
+    "reference": "2 Samuel 8-11",
+    "url": "https://www.bible.com/bible/111/2Samuel.8.NIV"
+  },
+  {
+    "day": 53,
+    "reference": "2 Samuel 12-15",
+    "url": "https://www.bible.com/bible/111/2Samuel.12.NIV"
+  },
+  {
+    "day": 54,
+    "reference": "2 Samuel 16-19",
+    "url": "https://www.bible.com/bible/111/2Samuel.16.NIV"
+  },
+  {
+    "day": 55,
+    "reference": "2 Samuel 20-23",
+    "url": "https://www.bible.com/bible/111/2Samuel.20.NIV"
+  },
+  {
+    "day": 56,
+    "reference": "2 Samuel 24; 2 Thessalonians 1-3",
+    "url": "https://www.bible.com/bible/111/2Samuel.24.NIV"
+  },
+  {
+    "day": 57,
+    "reference": "2 Timothy 1-4",
+    "url": "https://www.bible.com/bible/111/2Timothy.1.NIV"
+  },
+  {
+    "day": 58,
+    "reference": "3 John 1; Acts 1-3",
+    "url": "https://www.bible.com/bible/111/3John.1.NIV"
+  },
+  {
+    "day": 59,
+    "reference": "Acts 4-7",
+    "url": "https://www.bible.com/bible/111/Acts.4.NIV"
+  },
+  {
+    "day": 60,
+    "reference": "Acts 8-11",
+    "url": "https://www.bible.com/bible/111/Acts.8.NIV"
+  },
+  {
+    "day": 61,
+    "reference": "Acts 12-15",
+    "url": "https://www.bible.com/bible/111/Acts.12.NIV"
+  },
+  {
+    "day": 62,
+    "reference": "Acts 16-19",
+    "url": "https://www.bible.com/bible/111/Acts.16.NIV"
+  },
+  {
+    "day": 63,
+    "reference": "Acts 20-23",
+    "url": "https://www.bible.com/bible/111/Acts.20.NIV"
+  },
+  {
+    "day": 64,
+    "reference": "Acts 24-27",
+    "url": "https://www.bible.com/bible/111/Acts.24.NIV"
+  },
+  {
+    "day": 65,
+    "reference": "Acts 28; Amos 1-3",
+    "url": "https://www.bible.com/bible/111/Acts.28.NIV"
+  },
+  {
+    "day": 66,
+    "reference": "Amos 4-7",
+    "url": "https://www.bible.com/bible/111/Amos.4.NIV"
+  },
+  {
+    "day": 67,
+    "reference": "Amos 8-9; Colossians 1-2",
+    "url": "https://www.bible.com/bible/111/Amos.8.NIV"
+  },
+  {
+    "day": 68,
+    "reference": "Colossians 3-4; Daniel 1-2",
+    "url": "https://www.bible.com/bible/111/Colossians.3.NIV"
+  },
+  {
+    "day": 69,
+    "reference": "Daniel 3-6",
+    "url": "https://www.bible.com/bible/111/Daniel.3.NIV"
+  },
+  {
+    "day": 70,
+    "reference": "Daniel 7-10",
+    "url": "https://www.bible.com/bible/111/Daniel.7.NIV"
+  },
+  {
+    "day": 71,
+    "reference": "Daniel 11-12; Deuteronomy 1-2",
+    "url": "https://www.bible.com/bible/111/Daniel.11.NIV"
+  },
+  {
+    "day": 72,
+    "reference": "Deuteronomy 3-6",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.3.NIV"
+  },
+  {
+    "day": 73,
+    "reference": "Deuteronomy 7-10",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.7.NIV"
+  },
+  {
+    "day": 74,
+    "reference": "Deuteronomy 11-14",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.11.NIV"
+  },
+  {
+    "day": 75,
+    "reference": "Deuteronomy 15-18",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.15.NIV"
+  },
+  {
+    "day": 76,
+    "reference": "Deuteronomy 19-22",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.19.NIV"
+  },
+  {
+    "day": 77,
+    "reference": "Deuteronomy 23-26",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.23.NIV"
+  },
+  {
+    "day": 78,
+    "reference": "Deuteronomy 27-30",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.27.NIV"
+  },
+  {
+    "day": 79,
+    "reference": "Deuteronomy 31-34",
+    "url": "https://www.bible.com/bible/111/Deuteronomy.31.NIV"
+  },
+  {
+    "day": 80,
+    "reference": "Ecclesiastes 1-4",
+    "url": "https://www.bible.com/bible/111/Ecclesiastes.1.NIV"
+  },
+  {
+    "day": 81,
+    "reference": "Ecclesiastes 5-8",
+    "url": "https://www.bible.com/bible/111/Ecclesiastes.5.NIV"
+  },
+  {
+    "day": 82,
+    "reference": "Ecclesiastes 9-12",
+    "url": "https://www.bible.com/bible/111/Ecclesiastes.9.NIV"
+  },
+  {
+    "day": 83,
+    "reference": "Ephesians 1-4",
+    "url": "https://www.bible.com/bible/111/Ephesians.1.NIV"
+  },
+  {
+    "day": 84,
+    "reference": "Ephesians 5-6; Esther 1-2",
+    "url": "https://www.bible.com/bible/111/Ephesians.5.NIV"
+  },
+  {
+    "day": 85,
+    "reference": "Esther 3-6",
+    "url": "https://www.bible.com/bible/111/Esther.3.NIV"
+  },
+  {
+    "day": 86,
+    "reference": "Esther 7-10",
+    "url": "https://www.bible.com/bible/111/Esther.7.NIV"
+  },
+  {
+    "day": 87,
+    "reference": "Exodus 1-4",
+    "url": "https://www.bible.com/bible/111/Exodus.1.NIV"
+  },
+  {
+    "day": 88,
+    "reference": "Exodus 5-8",
+    "url": "https://www.bible.com/bible/111/Exodus.5.NIV"
+  },
+  {
+    "day": 89,
+    "reference": "Exodus 9-12",
+    "url": "https://www.bible.com/bible/111/Exodus.9.NIV"
+  },
+  {
+    "day": 90,
+    "reference": "Exodus 13-16",
+    "url": "https://www.bible.com/bible/111/Exodus.13.NIV"
+  },
+  {
+    "day": 91,
+    "reference": "Exodus 17-20",
+    "url": "https://www.bible.com/bible/111/Exodus.17.NIV"
+  },
+  {
+    "day": 92,
+    "reference": "Exodus 21-24",
+    "url": "https://www.bible.com/bible/111/Exodus.21.NIV"
+  },
+  {
+    "day": 93,
+    "reference": "Exodus 25-28",
+    "url": "https://www.bible.com/bible/111/Exodus.25.NIV"
+  },
+  {
+    "day": 94,
+    "reference": "Exodus 29-32",
+    "url": "https://www.bible.com/bible/111/Exodus.29.NIV"
+  },
+  {
+    "day": 95,
+    "reference": "Exodus 33-35",
+    "url": "https://www.bible.com/bible/111/Exodus.33.NIV"
+  },
+  {
+    "day": 96,
+    "reference": "Exodus 36-38",
+    "url": "https://www.bible.com/bible/111/Exodus.36.NIV"
+  },
+  {
+    "day": 97,
+    "reference": "Exodus 39-40; Ezekiel 1",
+    "url": "https://www.bible.com/bible/111/Exodus.39.NIV"
+  },
+  {
+    "day": 98,
+    "reference": "Ezekiel 2-4",
+    "url": "https://www.bible.com/bible/111/Ezekiel.2.NIV"
+  },
+  {
+    "day": 99,
+    "reference": "Ezekiel 5-7",
+    "url": "https://www.bible.com/bible/111/Ezekiel.5.NIV"
+  },
+  {
+    "day": 100,
+    "reference": "Ezekiel 8-10",
+    "url": "https://www.bible.com/bible/111/Ezekiel.8.NIV"
+  },
+  {
+    "day": 101,
+    "reference": "Ezekiel 11-13",
+    "url": "https://www.bible.com/bible/111/Ezekiel.11.NIV"
+  },
+  {
+    "day": 102,
+    "reference": "Ezekiel 14-16",
+    "url": "https://www.bible.com/bible/111/Ezekiel.14.NIV"
+  },
+  {
+    "day": 103,
+    "reference": "Ezekiel 17-19",
+    "url": "https://www.bible.com/bible/111/Ezekiel.17.NIV"
+  },
+  {
+    "day": 104,
+    "reference": "Ezekiel 20-22",
+    "url": "https://www.bible.com/bible/111/Ezekiel.20.NIV"
+  },
+  {
+    "day": 105,
+    "reference": "Ezekiel 23-25",
+    "url": "https://www.bible.com/bible/111/Ezekiel.23.NIV"
+  },
+  {
+    "day": 106,
+    "reference": "Ezekiel 26-28",
+    "url": "https://www.bible.com/bible/111/Ezekiel.26.NIV"
+  },
+  {
+    "day": 107,
+    "reference": "Ezekiel 29-31",
+    "url": "https://www.bible.com/bible/111/Ezekiel.29.NIV"
+  },
+  {
+    "day": 108,
+    "reference": "Ezekiel 32-34",
+    "url": "https://www.bible.com/bible/111/Ezekiel.32.NIV"
+  },
+  {
+    "day": 109,
+    "reference": "Ezekiel 35-37",
+    "url": "https://www.bible.com/bible/111/Ezekiel.35.NIV"
+  },
+  {
+    "day": 110,
+    "reference": "Ezekiel 38-40",
+    "url": "https://www.bible.com/bible/111/Ezekiel.38.NIV"
+  },
+  {
+    "day": 111,
+    "reference": "Ezekiel 41-43",
+    "url": "https://www.bible.com/bible/111/Ezekiel.41.NIV"
+  },
+  {
+    "day": 112,
+    "reference": "Ezekiel 44-46",
+    "url": "https://www.bible.com/bible/111/Ezekiel.44.NIV"
+  },
+  {
+    "day": 113,
+    "reference": "Ezekiel 47-48; Ezra 1",
+    "url": "https://www.bible.com/bible/111/Ezekiel.47.NIV"
+  },
+  {
+    "day": 114,
+    "reference": "Ezra 2-4",
+    "url": "https://www.bible.com/bible/111/Ezra.2.NIV"
+  },
+  {
+    "day": 115,
+    "reference": "Ezra 5-7",
+    "url": "https://www.bible.com/bible/111/Ezra.5.NIV"
+  },
+  {
+    "day": 116,
+    "reference": "Ezra 8-10",
+    "url": "https://www.bible.com/bible/111/Ezra.8.NIV"
+  },
+  {
+    "day": 117,
+    "reference": "Galatians 1-3",
+    "url": "https://www.bible.com/bible/111/Galatians.1.NIV"
+  },
+  {
+    "day": 118,
+    "reference": "Galatians 4-6",
+    "url": "https://www.bible.com/bible/111/Galatians.4.NIV"
+  },
+  {
+    "day": 119,
+    "reference": "Genesis 1-3",
+    "url": "https://www.bible.com/bible/111/Genesis.1.NIV"
+  },
+  {
+    "day": 120,
+    "reference": "Genesis 4-6",
+    "url": "https://www.bible.com/bible/111/Genesis.4.NIV"
+  },
+  {
+    "day": 121,
+    "reference": "Genesis 7-9",
+    "url": "https://www.bible.com/bible/111/Genesis.7.NIV"
+  },
+  {
+    "day": 122,
+    "reference": "Genesis 10-12",
+    "url": "https://www.bible.com/bible/111/Genesis.10.NIV"
+  },
+  {
+    "day": 123,
+    "reference": "Genesis 13-15",
+    "url": "https://www.bible.com/bible/111/Genesis.13.NIV"
+  },
+  {
+    "day": 124,
+    "reference": "Genesis 16-18",
+    "url": "https://www.bible.com/bible/111/Genesis.16.NIV"
+  },
+  {
+    "day": 125,
+    "reference": "Genesis 19-21",
+    "url": "https://www.bible.com/bible/111/Genesis.19.NIV"
+  },
+  {
+    "day": 126,
+    "reference": "Genesis 22-24",
+    "url": "https://www.bible.com/bible/111/Genesis.22.NIV"
+  },
+  {
+    "day": 127,
+    "reference": "Genesis 25-27",
+    "url": "https://www.bible.com/bible/111/Genesis.25.NIV"
+  },
+  {
+    "day": 128,
+    "reference": "Genesis 28-30",
+    "url": "https://www.bible.com/bible/111/Genesis.28.NIV"
+  },
+  {
+    "day": 129,
+    "reference": "Genesis 31-33",
+    "url": "https://www.bible.com/bible/111/Genesis.31.NIV"
+  },
+  {
+    "day": 130,
+    "reference": "Genesis 34-36",
+    "url": "https://www.bible.com/bible/111/Genesis.34.NIV"
+  },
+  {
+    "day": 131,
+    "reference": "Genesis 37-39",
+    "url": "https://www.bible.com/bible/111/Genesis.37.NIV"
+  },
+  {
+    "day": 132,
+    "reference": "Genesis 40-42",
+    "url": "https://www.bible.com/bible/111/Genesis.40.NIV"
+  },
+  {
+    "day": 133,
+    "reference": "Genesis 43-45",
+    "url": "https://www.bible.com/bible/111/Genesis.43.NIV"
+  },
+  {
+    "day": 134,
+    "reference": "Genesis 46-48",
+    "url": "https://www.bible.com/bible/111/Genesis.46.NIV"
+  },
+  {
+    "day": 135,
+    "reference": "Genesis 49-50; Habakkuk 1",
+    "url": "https://www.bible.com/bible/111/Genesis.49.NIV"
+  },
+  {
+    "day": 136,
+    "reference": "Habakkuk 2-3; Haggai 1",
+    "url": "https://www.bible.com/bible/111/Habakkuk.2.NIV"
+  },
+  {
+    "day": 137,
+    "reference": "Haggai 2; Hebrews 1-2",
+    "url": "https://www.bible.com/bible/111/Haggai.2.NIV"
+  },
+  {
+    "day": 138,
+    "reference": "Hebrews 3-5",
+    "url": "https://www.bible.com/bible/111/Hebrews.3.NIV"
+  },
+  {
+    "day": 139,
+    "reference": "Hebrews 6-8",
+    "url": "https://www.bible.com/bible/111/Hebrews.6.NIV"
+  },
+  {
+    "day": 140,
+    "reference": "Hebrews 9-11",
+    "url": "https://www.bible.com/bible/111/Hebrews.9.NIV"
+  },
+  {
+    "day": 141,
+    "reference": "Hebrews 12-13; Hosea 1",
+    "url": "https://www.bible.com/bible/111/Hebrews.12.NIV"
+  },
+  {
+    "day": 142,
+    "reference": "Hosea 2-4",
+    "url": "https://www.bible.com/bible/111/Hosea.2.NIV"
+  },
+  {
+    "day": 143,
+    "reference": "Hosea 5-7",
+    "url": "https://www.bible.com/bible/111/Hosea.5.NIV"
+  },
+  {
+    "day": 144,
+    "reference": "Hosea 8-10",
+    "url": "https://www.bible.com/bible/111/Hosea.8.NIV"
+  },
+  {
+    "day": 145,
+    "reference": "Hosea 11-13",
+    "url": "https://www.bible.com/bible/111/Hosea.11.NIV"
+  },
+  {
+    "day": 146,
+    "reference": "Hosea 14; Isaiah 1-2",
+    "url": "https://www.bible.com/bible/111/Hosea.14.NIV"
+  },
+  {
+    "day": 147,
+    "reference": "Isaiah 3-5",
+    "url": "https://www.bible.com/bible/111/Isaiah.3.NIV"
+  },
+  {
+    "day": 148,
+    "reference": "Isaiah 6-8",
+    "url": "https://www.bible.com/bible/111/Isaiah.6.NIV"
+  },
+  {
+    "day": 149,
+    "reference": "Isaiah 9-11",
+    "url": "https://www.bible.com/bible/111/Isaiah.9.NIV"
+  },
+  {
+    "day": 150,
+    "reference": "Isaiah 12-14",
+    "url": "https://www.bible.com/bible/111/Isaiah.12.NIV"
+  },
+  {
+    "day": 151,
+    "reference": "Isaiah 15-17",
+    "url": "https://www.bible.com/bible/111/Isaiah.15.NIV"
+  },
+  {
+    "day": 152,
+    "reference": "Isaiah 18-20",
+    "url": "https://www.bible.com/bible/111/Isaiah.18.NIV"
+  },
+  {
+    "day": 153,
+    "reference": "Isaiah 21-23",
+    "url": "https://www.bible.com/bible/111/Isaiah.21.NIV"
+  },
+  {
+    "day": 154,
+    "reference": "Isaiah 24-26",
+    "url": "https://www.bible.com/bible/111/Isaiah.24.NIV"
+  },
+  {
+    "day": 155,
+    "reference": "Isaiah 27-29",
+    "url": "https://www.bible.com/bible/111/Isaiah.27.NIV"
+  },
+  {
+    "day": 156,
+    "reference": "Isaiah 30-32",
+    "url": "https://www.bible.com/bible/111/Isaiah.30.NIV"
+  },
+  {
+    "day": 157,
+    "reference": "Isaiah 33-35",
+    "url": "https://www.bible.com/bible/111/Isaiah.33.NIV"
+  },
+  {
+    "day": 158,
+    "reference": "Isaiah 36-38",
+    "url": "https://www.bible.com/bible/111/Isaiah.36.NIV"
+  },
+  {
+    "day": 159,
+    "reference": "Isaiah 39-41",
+    "url": "https://www.bible.com/bible/111/Isaiah.39.NIV"
+  },
+  {
+    "day": 160,
+    "reference": "Isaiah 42-44",
+    "url": "https://www.bible.com/bible/111/Isaiah.42.NIV"
+  },
+  {
+    "day": 161,
+    "reference": "Isaiah 45-47",
+    "url": "https://www.bible.com/bible/111/Isaiah.45.NIV"
+  },
+  {
+    "day": 162,
+    "reference": "Isaiah 48-50",
+    "url": "https://www.bible.com/bible/111/Isaiah.48.NIV"
+  },
+  {
+    "day": 163,
+    "reference": "Isaiah 51-53",
+    "url": "https://www.bible.com/bible/111/Isaiah.51.NIV"
+  },
+  {
+    "day": 164,
+    "reference": "Isaiah 54-56",
+    "url": "https://www.bible.com/bible/111/Isaiah.54.NIV"
+  },
+  {
+    "day": 165,
+    "reference": "Isaiah 57-59",
+    "url": "https://www.bible.com/bible/111/Isaiah.57.NIV"
+  },
+  {
+    "day": 166,
+    "reference": "Isaiah 60-62",
+    "url": "https://www.bible.com/bible/111/Isaiah.60.NIV"
+  },
+  {
+    "day": 167,
+    "reference": "Isaiah 63-65",
+    "url": "https://www.bible.com/bible/111/Isaiah.63.NIV"
+  },
+  {
+    "day": 168,
+    "reference": "Isaiah 66; James 1-2",
+    "url": "https://www.bible.com/bible/111/Isaiah.66.NIV"
+  },
+  {
+    "day": 169,
+    "reference": "James 3-5",
+    "url": "https://www.bible.com/bible/111/James.3.NIV"
+  },
+  {
+    "day": 170,
+    "reference": "Jeremiah 1-3",
+    "url": "https://www.bible.com/bible/111/Jeremiah.1.NIV"
+  },
+  {
+    "day": 171,
+    "reference": "Jeremiah 4-6",
+    "url": "https://www.bible.com/bible/111/Jeremiah.4.NIV"
+  },
+  {
+    "day": 172,
+    "reference": "Jeremiah 7-9",
+    "url": "https://www.bible.com/bible/111/Jeremiah.7.NIV"
+  },
+  {
+    "day": 173,
+    "reference": "Jeremiah 10-12",
+    "url": "https://www.bible.com/bible/111/Jeremiah.10.NIV"
+  },
+  {
+    "day": 174,
+    "reference": "Jeremiah 13-15",
+    "url": "https://www.bible.com/bible/111/Jeremiah.13.NIV"
+  },
+  {
+    "day": 175,
+    "reference": "Jeremiah 16-18",
+    "url": "https://www.bible.com/bible/111/Jeremiah.16.NIV"
+  },
+  {
+    "day": 176,
+    "reference": "Jeremiah 19-21",
+    "url": "https://www.bible.com/bible/111/Jeremiah.19.NIV"
+  },
+  {
+    "day": 177,
+    "reference": "Jeremiah 22-24",
+    "url": "https://www.bible.com/bible/111/Jeremiah.22.NIV"
+  },
+  {
+    "day": 178,
+    "reference": "Jeremiah 25-27",
+    "url": "https://www.bible.com/bible/111/Jeremiah.25.NIV"
+  },
+  {
+    "day": 179,
+    "reference": "Jeremiah 28-30",
+    "url": "https://www.bible.com/bible/111/Jeremiah.28.NIV"
+  },
+  {
+    "day": 180,
+    "reference": "Jeremiah 31-33",
+    "url": "https://www.bible.com/bible/111/Jeremiah.31.NIV"
+  },
+  {
+    "day": 181,
+    "reference": "Jeremiah 34-36",
+    "url": "https://www.bible.com/bible/111/Jeremiah.34.NIV"
+  },
+  {
+    "day": 182,
+    "reference": "Jeremiah 37-39",
+    "url": "https://www.bible.com/bible/111/Jeremiah.37.NIV"
+  },
+  {
+    "day": 183,
+    "reference": "Jeremiah 40-42",
+    "url": "https://www.bible.com/bible/111/Jeremiah.40.NIV"
+  },
+  {
+    "day": 184,
+    "reference": "Jeremiah 43-45",
+    "url": "https://www.bible.com/bible/111/Jeremiah.43.NIV"
+  },
+  {
+    "day": 185,
+    "reference": "Jeremiah 46-48",
+    "url": "https://www.bible.com/bible/111/Jeremiah.46.NIV"
+  },
+  {
+    "day": 186,
+    "reference": "Jeremiah 49-51",
+    "url": "https://www.bible.com/bible/111/Jeremiah.49.NIV"
+  },
+  {
+    "day": 187,
+    "reference": "Jeremiah 52; Job 1-2",
+    "url": "https://www.bible.com/bible/111/Jeremiah.52.NIV"
+  },
+  {
+    "day": 188,
+    "reference": "Job 3-5",
+    "url": "https://www.bible.com/bible/111/Job.3.NIV"
+  },
+  {
+    "day": 189,
+    "reference": "Job 6-8",
+    "url": "https://www.bible.com/bible/111/Job.6.NIV"
+  },
+  {
+    "day": 190,
+    "reference": "Job 9-11",
+    "url": "https://www.bible.com/bible/111/Job.9.NIV"
+  },
+  {
+    "day": 191,
+    "reference": "Job 12-14",
+    "url": "https://www.bible.com/bible/111/Job.12.NIV"
+  },
+  {
+    "day": 192,
+    "reference": "Job 15-17",
+    "url": "https://www.bible.com/bible/111/Job.15.NIV"
+  },
+  {
+    "day": 193,
+    "reference": "Job 18-20",
+    "url": "https://www.bible.com/bible/111/Job.18.NIV"
+  },
+  {
+    "day": 194,
+    "reference": "Job 21-23",
+    "url": "https://www.bible.com/bible/111/Job.21.NIV"
+  },
+  {
+    "day": 195,
+    "reference": "Job 24-26",
+    "url": "https://www.bible.com/bible/111/Job.24.NIV"
+  },
+  {
+    "day": 196,
+    "reference": "Job 27-29",
+    "url": "https://www.bible.com/bible/111/Job.27.NIV"
+  },
+  {
+    "day": 197,
+    "reference": "Job 30-32",
+    "url": "https://www.bible.com/bible/111/Job.30.NIV"
+  },
+  {
+    "day": 198,
+    "reference": "Job 33-35",
+    "url": "https://www.bible.com/bible/111/Job.33.NIV"
+  },
+  {
+    "day": 199,
+    "reference": "Job 36-38",
+    "url": "https://www.bible.com/bible/111/Job.36.NIV"
+  },
+  {
+    "day": 200,
+    "reference": "Job 39-41",
+    "url": "https://www.bible.com/bible/111/Job.39.NIV"
+  },
+  {
+    "day": 201,
+    "reference": "Job 42; Joel 1-2",
+    "url": "https://www.bible.com/bible/111/Job.42.NIV"
+  },
+  {
+    "day": 202,
+    "reference": "Joel 3; John 1-2",
+    "url": "https://www.bible.com/bible/111/Joel.3.NIV"
+  },
+  {
+    "day": 203,
+    "reference": "John 3-5",
+    "url": "https://www.bible.com/bible/111/John.3.NIV"
+  },
+  {
+    "day": 204,
+    "reference": "John 6-8",
+    "url": "https://www.bible.com/bible/111/John.6.NIV"
+  },
+  {
+    "day": 205,
+    "reference": "John 9-11",
+    "url": "https://www.bible.com/bible/111/John.9.NIV"
+  },
+  {
+    "day": 206,
+    "reference": "John 12-14",
+    "url": "https://www.bible.com/bible/111/John.12.NIV"
+  },
+  {
+    "day": 207,
+    "reference": "John 15-17",
+    "url": "https://www.bible.com/bible/111/John.15.NIV"
+  },
+  {
+    "day": 208,
+    "reference": "John 18-20",
+    "url": "https://www.bible.com/bible/111/John.18.NIV"
+  },
+  {
+    "day": 209,
+    "reference": "John 21; Jonah 1-2",
+    "url": "https://www.bible.com/bible/111/John.21.NIV"
+  },
+  {
+    "day": 210,
+    "reference": "Jonah 3-4; Joshua 1",
+    "url": "https://www.bible.com/bible/111/Jonah.3.NIV"
+  },
+  {
+    "day": 211,
+    "reference": "Joshua 2-4",
+    "url": "https://www.bible.com/bible/111/Joshua.2.NIV"
+  },
+  {
+    "day": 212,
+    "reference": "Joshua 5-7",
+    "url": "https://www.bible.com/bible/111/Joshua.5.NIV"
+  },
+  {
+    "day": 213,
+    "reference": "Joshua 8-10",
+    "url": "https://www.bible.com/bible/111/Joshua.8.NIV"
+  },
+  {
+    "day": 214,
+    "reference": "Joshua 11-13",
+    "url": "https://www.bible.com/bible/111/Joshua.11.NIV"
+  },
+  {
+    "day": 215,
+    "reference": "Joshua 14-16",
+    "url": "https://www.bible.com/bible/111/Joshua.14.NIV"
+  },
+  {
+    "day": 216,
+    "reference": "Joshua 17-19",
+    "url": "https://www.bible.com/bible/111/Joshua.17.NIV"
+  },
+  {
+    "day": 217,
+    "reference": "Joshua 20-22",
+    "url": "https://www.bible.com/bible/111/Joshua.20.NIV"
+  },
+  {
+    "day": 218,
+    "reference": "Joshua 23-24; Jude 1",
+    "url": "https://www.bible.com/bible/111/Joshua.23.NIV"
+  },
+  {
+    "day": 219,
+    "reference": "Judges 1-3",
+    "url": "https://www.bible.com/bible/111/Judges.1.NIV"
+  },
+  {
+    "day": 220,
+    "reference": "Judges 4-6",
+    "url": "https://www.bible.com/bible/111/Judges.4.NIV"
+  },
+  {
+    "day": 221,
+    "reference": "Judges 7-9",
+    "url": "https://www.bible.com/bible/111/Judges.7.NIV"
+  },
+  {
+    "day": 222,
+    "reference": "Judges 10-12",
+    "url": "https://www.bible.com/bible/111/Judges.10.NIV"
+  },
+  {
+    "day": 223,
+    "reference": "Judges 13-15",
+    "url": "https://www.bible.com/bible/111/Judges.13.NIV"
+  },
+  {
+    "day": 224,
+    "reference": "Judges 16-18",
+    "url": "https://www.bible.com/bible/111/Judges.16.NIV"
+  },
+  {
+    "day": 225,
+    "reference": "Judges 19-21",
+    "url": "https://www.bible.com/bible/111/Judges.19.NIV"
+  },
+  {
+    "day": 226,
+    "reference": "Lamentations 1-3",
+    "url": "https://www.bible.com/bible/111/Lamentations.1.NIV"
+  },
+  {
+    "day": 227,
+    "reference": "Lamentations 4-5; Leviticus 1",
+    "url": "https://www.bible.com/bible/111/Lamentations.4.NIV"
+  },
+  {
+    "day": 228,
+    "reference": "Leviticus 2-4",
+    "url": "https://www.bible.com/bible/111/Leviticus.2.NIV"
+  },
+  {
+    "day": 229,
+    "reference": "Leviticus 5-7",
+    "url": "https://www.bible.com/bible/111/Leviticus.5.NIV"
+  },
+  {
+    "day": 230,
+    "reference": "Leviticus 8-10",
+    "url": "https://www.bible.com/bible/111/Leviticus.8.NIV"
+  },
+  {
+    "day": 231,
+    "reference": "Leviticus 11-13",
+    "url": "https://www.bible.com/bible/111/Leviticus.11.NIV"
+  },
+  {
+    "day": 232,
+    "reference": "Leviticus 14-16",
+    "url": "https://www.bible.com/bible/111/Leviticus.14.NIV"
+  },
+  {
+    "day": 233,
+    "reference": "Leviticus 17-19",
+    "url": "https://www.bible.com/bible/111/Leviticus.17.NIV"
+  },
+  {
+    "day": 234,
+    "reference": "Leviticus 20-22",
+    "url": "https://www.bible.com/bible/111/Leviticus.20.NIV"
+  },
+  {
+    "day": 235,
+    "reference": "Leviticus 23-25",
+    "url": "https://www.bible.com/bible/111/Leviticus.23.NIV"
+  },
+  {
+    "day": 236,
+    "reference": "Leviticus 26-27; Luke 1",
+    "url": "https://www.bible.com/bible/111/Leviticus.26.NIV"
+  },
+  {
+    "day": 237,
+    "reference": "Luke 2-4",
+    "url": "https://www.bible.com/bible/111/Luke.2.NIV"
+  },
+  {
+    "day": 238,
+    "reference": "Luke 5-7",
+    "url": "https://www.bible.com/bible/111/Luke.5.NIV"
+  },
+  {
+    "day": 239,
+    "reference": "Luke 8-10",
+    "url": "https://www.bible.com/bible/111/Luke.8.NIV"
+  },
+  {
+    "day": 240,
+    "reference": "Luke 11-13",
+    "url": "https://www.bible.com/bible/111/Luke.11.NIV"
+  },
+  {
+    "day": 241,
+    "reference": "Luke 14-16",
+    "url": "https://www.bible.com/bible/111/Luke.14.NIV"
+  },
+  {
+    "day": 242,
+    "reference": "Luke 17-19",
+    "url": "https://www.bible.com/bible/111/Luke.17.NIV"
+  },
+  {
+    "day": 243,
+    "reference": "Luke 20-22",
+    "url": "https://www.bible.com/bible/111/Luke.20.NIV"
+  },
+  {
+    "day": 244,
+    "reference": "Luke 23-24; Malachi 1",
+    "url": "https://www.bible.com/bible/111/Luke.23.NIV"
+  },
+  {
+    "day": 245,
+    "reference": "Malachi 2-4",
+    "url": "https://www.bible.com/bible/111/Malachi.2.NIV"
+  },
+  {
+    "day": 246,
+    "reference": "Mark 1-3",
+    "url": "https://www.bible.com/bible/111/Mark.1.NIV"
+  },
+  {
+    "day": 247,
+    "reference": "Mark 4-6",
+    "url": "https://www.bible.com/bible/111/Mark.4.NIV"
+  },
+  {
+    "day": 248,
+    "reference": "Mark 7-9",
+    "url": "https://www.bible.com/bible/111/Mark.7.NIV"
+  },
+  {
+    "day": 249,
+    "reference": "Mark 10-12",
+    "url": "https://www.bible.com/bible/111/Mark.10.NIV"
+  },
+  {
+    "day": 250,
+    "reference": "Mark 13-15",
+    "url": "https://www.bible.com/bible/111/Mark.13.NIV"
+  },
+  {
+    "day": 251,
+    "reference": "Mark 16; Matthew 1-2",
+    "url": "https://www.bible.com/bible/111/Mark.16.NIV"
+  },
+  {
+    "day": 252,
+    "reference": "Matthew 3-5",
+    "url": "https://www.bible.com/bible/111/Matthew.3.NIV"
+  },
+  {
+    "day": 253,
+    "reference": "Matthew 6-8",
+    "url": "https://www.bible.com/bible/111/Matthew.6.NIV"
+  },
+  {
+    "day": 254,
+    "reference": "Matthew 9-11",
+    "url": "https://www.bible.com/bible/111/Matthew.9.NIV"
+  },
+  {
+    "day": 255,
+    "reference": "Matthew 12-14",
+    "url": "https://www.bible.com/bible/111/Matthew.12.NIV"
+  },
+  {
+    "day": 256,
+    "reference": "Matthew 15-17",
+    "url": "https://www.bible.com/bible/111/Matthew.15.NIV"
+  },
+  {
+    "day": 257,
+    "reference": "Matthew 18-20",
+    "url": "https://www.bible.com/bible/111/Matthew.18.NIV"
+  },
+  {
+    "day": 258,
+    "reference": "Matthew 21-23",
+    "url": "https://www.bible.com/bible/111/Matthew.21.NIV"
+  },
+  {
+    "day": 259,
+    "reference": "Matthew 24-26",
+    "url": "https://www.bible.com/bible/111/Matthew.24.NIV"
+  },
+  {
+    "day": 260,
+    "reference": "Matthew 27-28; Micah 1",
+    "url": "https://www.bible.com/bible/111/Matthew.27.NIV"
+  },
+  {
+    "day": 261,
+    "reference": "Micah 2-4",
+    "url": "https://www.bible.com/bible/111/Micah.2.NIV"
+  },
+  {
+    "day": 262,
+    "reference": "Micah 5-7",
+    "url": "https://www.bible.com/bible/111/Micah.5.NIV"
+  },
+  {
+    "day": 263,
+    "reference": "Nahum 1-3",
+    "url": "https://www.bible.com/bible/111/Nahum.1.NIV"
+  },
+  {
+    "day": 264,
+    "reference": "Nehemiah 1-3",
+    "url": "https://www.bible.com/bible/111/Nehemiah.1.NIV"
+  },
+  {
+    "day": 265,
+    "reference": "Nehemiah 4-6",
+    "url": "https://www.bible.com/bible/111/Nehemiah.4.NIV"
+  },
+  {
+    "day": 266,
+    "reference": "Nehemiah 7-9",
+    "url": "https://www.bible.com/bible/111/Nehemiah.7.NIV"
+  },
+  {
+    "day": 267,
+    "reference": "Nehemiah 10-12",
+    "url": "https://www.bible.com/bible/111/Nehemiah.10.NIV"
+  },
+  {
+    "day": 268,
+    "reference": "Nehemiah 13; Numbers 1-2",
+    "url": "https://www.bible.com/bible/111/Nehemiah.13.NIV"
+  },
+  {
+    "day": 269,
+    "reference": "Numbers 3-5",
+    "url": "https://www.bible.com/bible/111/Numbers.3.NIV"
+  },
+  {
+    "day": 270,
+    "reference": "Numbers 6-8",
+    "url": "https://www.bible.com/bible/111/Numbers.6.NIV"
+  },
+  {
+    "day": 271,
+    "reference": "Numbers 9-11",
+    "url": "https://www.bible.com/bible/111/Numbers.9.NIV"
+  },
+  {
+    "day": 272,
+    "reference": "Numbers 12-14",
+    "url": "https://www.bible.com/bible/111/Numbers.12.NIV"
+  },
+  {
+    "day": 273,
+    "reference": "Numbers 15-17",
+    "url": "https://www.bible.com/bible/111/Numbers.15.NIV"
+  },
+  {
+    "day": 274,
+    "reference": "Numbers 18-20",
+    "url": "https://www.bible.com/bible/111/Numbers.18.NIV"
+  },
+  {
+    "day": 275,
+    "reference": "Numbers 21-23",
+    "url": "https://www.bible.com/bible/111/Numbers.21.NIV"
+  },
+  {
+    "day": 276,
+    "reference": "Numbers 24-26",
+    "url": "https://www.bible.com/bible/111/Numbers.24.NIV"
+  },
+  {
+    "day": 277,
+    "reference": "Numbers 27-29",
+    "url": "https://www.bible.com/bible/111/Numbers.27.NIV"
+  },
+  {
+    "day": 278,
+    "reference": "Numbers 30-32",
+    "url": "https://www.bible.com/bible/111/Numbers.30.NIV"
+  },
+  {
+    "day": 279,
+    "reference": "Numbers 33-35",
+    "url": "https://www.bible.com/bible/111/Numbers.33.NIV"
+  },
+  {
+    "day": 280,
+    "reference": "Numbers 36; Obadiah 1; Philemon 1",
+    "url": "https://www.bible.com/bible/111/Numbers.36.NIV"
+  },
+  {
+    "day": 281,
+    "reference": "Philippians 1-3",
+    "url": "https://www.bible.com/bible/111/Philippians.1.NIV"
+  },
+  {
+    "day": 282,
+    "reference": "Philippians 4; Proverbs 1-2",
+    "url": "https://www.bible.com/bible/111/Philippians.4.NIV"
+  },
+  {
+    "day": 283,
+    "reference": "Proverbs 3-5",
+    "url": "https://www.bible.com/bible/111/Proverbs.3.NIV"
+  },
+  {
+    "day": 284,
+    "reference": "Proverbs 6-8",
+    "url": "https://www.bible.com/bible/111/Proverbs.6.NIV"
+  },
+  {
+    "day": 285,
+    "reference": "Proverbs 9-11",
+    "url": "https://www.bible.com/bible/111/Proverbs.9.NIV"
+  },
+  {
+    "day": 286,
+    "reference": "Proverbs 12-14",
+    "url": "https://www.bible.com/bible/111/Proverbs.12.NIV"
+  },
+  {
+    "day": 287,
+    "reference": "Proverbs 15-17",
+    "url": "https://www.bible.com/bible/111/Proverbs.15.NIV"
+  },
+  {
+    "day": 288,
+    "reference": "Proverbs 18-20",
+    "url": "https://www.bible.com/bible/111/Proverbs.18.NIV"
+  },
+  {
+    "day": 289,
+    "reference": "Proverbs 21-23",
+    "url": "https://www.bible.com/bible/111/Proverbs.21.NIV"
+  },
+  {
+    "day": 290,
+    "reference": "Proverbs 24-26",
+    "url": "https://www.bible.com/bible/111/Proverbs.24.NIV"
+  },
+  {
+    "day": 291,
+    "reference": "Proverbs 27-29",
+    "url": "https://www.bible.com/bible/111/Proverbs.27.NIV"
+  },
+  {
+    "day": 292,
+    "reference": "Proverbs 30-31; Psalms 1",
+    "url": "https://www.bible.com/bible/111/Proverbs.30.NIV"
+  },
+  {
+    "day": 293,
+    "reference": "Psalms 2-4",
+    "url": "https://www.bible.com/bible/111/Psalms.2.NIV"
+  },
+  {
+    "day": 294,
+    "reference": "Psalms 5-7",
+    "url": "https://www.bible.com/bible/111/Psalms.5.NIV"
+  },
+  {
+    "day": 295,
+    "reference": "Psalms 8-10",
+    "url": "https://www.bible.com/bible/111/Psalms.8.NIV"
+  },
+  {
+    "day": 296,
+    "reference": "Psalms 11-13",
+    "url": "https://www.bible.com/bible/111/Psalms.11.NIV"
+  },
+  {
+    "day": 297,
+    "reference": "Psalms 14-16",
+    "url": "https://www.bible.com/bible/111/Psalms.14.NIV"
+  },
+  {
+    "day": 298,
+    "reference": "Psalms 17-19",
+    "url": "https://www.bible.com/bible/111/Psalms.17.NIV"
+  },
+  {
+    "day": 299,
+    "reference": "Psalms 20-22",
+    "url": "https://www.bible.com/bible/111/Psalms.20.NIV"
+  },
+  {
+    "day": 300,
+    "reference": "Psalms 23-25",
+    "url": "https://www.bible.com/bible/111/Psalms.23.NIV"
+  },
+  {
+    "day": 301,
+    "reference": "Psalms 26-28",
+    "url": "https://www.bible.com/bible/111/Psalms.26.NIV"
+  },
+  {
+    "day": 302,
+    "reference": "Psalms 29-31",
+    "url": "https://www.bible.com/bible/111/Psalms.29.NIV"
+  },
+  {
+    "day": 303,
+    "reference": "Psalms 32-34",
+    "url": "https://www.bible.com/bible/111/Psalms.32.NIV"
+  },
+  {
+    "day": 304,
+    "reference": "Psalms 35-37",
+    "url": "https://www.bible.com/bible/111/Psalms.35.NIV"
+  },
+  {
+    "day": 305,
+    "reference": "Psalms 38-40",
+    "url": "https://www.bible.com/bible/111/Psalms.38.NIV"
+  },
+  {
+    "day": 306,
+    "reference": "Psalms 41-43",
+    "url": "https://www.bible.com/bible/111/Psalms.41.NIV"
+  },
+  {
+    "day": 307,
+    "reference": "Psalms 44-46",
+    "url": "https://www.bible.com/bible/111/Psalms.44.NIV"
+  },
+  {
+    "day": 308,
+    "reference": "Psalms 47-49",
+    "url": "https://www.bible.com/bible/111/Psalms.47.NIV"
+  },
+  {
+    "day": 309,
+    "reference": "Psalms 50-52",
+    "url": "https://www.bible.com/bible/111/Psalms.50.NIV"
+  },
+  {
+    "day": 310,
+    "reference": "Psalms 53-55",
+    "url": "https://www.bible.com/bible/111/Psalms.53.NIV"
+  },
+  {
+    "day": 311,
+    "reference": "Psalms 56-58",
+    "url": "https://www.bible.com/bible/111/Psalms.56.NIV"
+  },
+  {
+    "day": 312,
+    "reference": "Psalms 59-61",
+    "url": "https://www.bible.com/bible/111/Psalms.59.NIV"
+  },
+  {
+    "day": 313,
+    "reference": "Psalms 62-64",
+    "url": "https://www.bible.com/bible/111/Psalms.62.NIV"
+  },
+  {
+    "day": 314,
+    "reference": "Psalms 65-67",
+    "url": "https://www.bible.com/bible/111/Psalms.65.NIV"
+  },
+  {
+    "day": 315,
+    "reference": "Psalms 68-70",
+    "url": "https://www.bible.com/bible/111/Psalms.68.NIV"
+  },
+  {
+    "day": 316,
+    "reference": "Psalms 71-73",
+    "url": "https://www.bible.com/bible/111/Psalms.71.NIV"
+  },
+  {
+    "day": 317,
+    "reference": "Psalms 74-76",
+    "url": "https://www.bible.com/bible/111/Psalms.74.NIV"
+  },
+  {
+    "day": 318,
+    "reference": "Psalms 77-79",
+    "url": "https://www.bible.com/bible/111/Psalms.77.NIV"
+  },
+  {
+    "day": 319,
+    "reference": "Psalms 80-82",
+    "url": "https://www.bible.com/bible/111/Psalms.80.NIV"
+  },
+  {
+    "day": 320,
+    "reference": "Psalms 83-85",
+    "url": "https://www.bible.com/bible/111/Psalms.83.NIV"
+  },
+  {
+    "day": 321,
+    "reference": "Psalms 86-88",
+    "url": "https://www.bible.com/bible/111/Psalms.86.NIV"
+  },
+  {
+    "day": 322,
+    "reference": "Psalms 89-91",
+    "url": "https://www.bible.com/bible/111/Psalms.89.NIV"
+  },
+  {
+    "day": 323,
+    "reference": "Psalms 92-94",
+    "url": "https://www.bible.com/bible/111/Psalms.92.NIV"
+  },
+  {
+    "day": 324,
+    "reference": "Psalms 95-97",
+    "url": "https://www.bible.com/bible/111/Psalms.95.NIV"
+  },
+  {
+    "day": 325,
+    "reference": "Psalms 98-100",
+    "url": "https://www.bible.com/bible/111/Psalms.98.NIV"
+  },
+  {
+    "day": 326,
+    "reference": "Psalms 101-103",
+    "url": "https://www.bible.com/bible/111/Psalms.101.NIV"
+  },
+  {
+    "day": 327,
+    "reference": "Psalms 104-106",
+    "url": "https://www.bible.com/bible/111/Psalms.104.NIV"
+  },
+  {
+    "day": 328,
+    "reference": "Psalms 107-109",
+    "url": "https://www.bible.com/bible/111/Psalms.107.NIV"
+  },
+  {
+    "day": 329,
+    "reference": "Psalms 110-112",
+    "url": "https://www.bible.com/bible/111/Psalms.110.NIV"
+  },
+  {
+    "day": 330,
+    "reference": "Psalms 113-115",
+    "url": "https://www.bible.com/bible/111/Psalms.113.NIV"
+  },
+  {
+    "day": 331,
+    "reference": "Psalms 116-118",
+    "url": "https://www.bible.com/bible/111/Psalms.116.NIV"
+  },
+  {
+    "day": 332,
+    "reference": "Psalms 119-121",
+    "url": "https://www.bible.com/bible/111/Psalms.119.NIV"
+  },
+  {
+    "day": 333,
+    "reference": "Psalms 122-124",
+    "url": "https://www.bible.com/bible/111/Psalms.122.NIV"
+  },
+  {
+    "day": 334,
+    "reference": "Psalms 125-127",
+    "url": "https://www.bible.com/bible/111/Psalms.125.NIV"
+  },
+  {
+    "day": 335,
+    "reference": "Psalms 128-130",
+    "url": "https://www.bible.com/bible/111/Psalms.128.NIV"
+  },
+  {
+    "day": 336,
+    "reference": "Psalms 131-133",
+    "url": "https://www.bible.com/bible/111/Psalms.131.NIV"
+  },
+  {
+    "day": 337,
+    "reference": "Psalms 134-136",
+    "url": "https://www.bible.com/bible/111/Psalms.134.NIV"
+  },
+  {
+    "day": 338,
+    "reference": "Psalms 137-139",
+    "url": "https://www.bible.com/bible/111/Psalms.137.NIV"
+  },
+  {
+    "day": 339,
+    "reference": "Psalms 140-142",
+    "url": "https://www.bible.com/bible/111/Psalms.140.NIV"
+  },
+  {
+    "day": 340,
+    "reference": "Psalms 143-145",
+    "url": "https://www.bible.com/bible/111/Psalms.143.NIV"
+  },
+  {
+    "day": 341,
+    "reference": "Psalms 146-148",
+    "url": "https://www.bible.com/bible/111/Psalms.146.NIV"
+  },
+  {
+    "day": 342,
+    "reference": "Psalms 149-150; Revelation 1",
+    "url": "https://www.bible.com/bible/111/Psalms.149.NIV"
+  },
+  {
+    "day": 343,
+    "reference": "Revelation 2-4",
+    "url": "https://www.bible.com/bible/111/Revelation.2.NIV"
+  },
+  {
+    "day": 344,
+    "reference": "Revelation 5-7",
+    "url": "https://www.bible.com/bible/111/Revelation.5.NIV"
+  },
+  {
+    "day": 345,
+    "reference": "Revelation 8-10",
+    "url": "https://www.bible.com/bible/111/Revelation.8.NIV"
+  },
+  {
+    "day": 346,
+    "reference": "Revelation 11-13",
+    "url": "https://www.bible.com/bible/111/Revelation.11.NIV"
+  },
+  {
+    "day": 347,
+    "reference": "Revelation 14-16",
+    "url": "https://www.bible.com/bible/111/Revelation.14.NIV"
+  },
+  {
+    "day": 348,
+    "reference": "Revelation 17-19",
+    "url": "https://www.bible.com/bible/111/Revelation.17.NIV"
+  },
+  {
+    "day": 349,
+    "reference": "Revelation 20-22",
+    "url": "https://www.bible.com/bible/111/Revelation.20.NIV"
+  },
+  {
+    "day": 350,
+    "reference": "Romans 1-3",
+    "url": "https://www.bible.com/bible/111/Romans.1.NIV"
+  },
+  {
+    "day": 351,
+    "reference": "Romans 4-6",
+    "url": "https://www.bible.com/bible/111/Romans.4.NIV"
+  },
+  {
+    "day": 352,
+    "reference": "Romans 7-9",
+    "url": "https://www.bible.com/bible/111/Romans.7.NIV"
+  },
+  {
+    "day": 353,
+    "reference": "Romans 10-12",
+    "url": "https://www.bible.com/bible/111/Romans.10.NIV"
+  },
+  {
+    "day": 354,
+    "reference": "Romans 13-15",
+    "url": "https://www.bible.com/bible/111/Romans.13.NIV"
+  },
+  {
+    "day": 355,
+    "reference": "Romans 16; Ruth 1-2",
+    "url": "https://www.bible.com/bible/111/Romans.16.NIV"
+  },
+  {
+    "day": 356,
+    "reference": "Ruth 3-4; Song of Solomon 1",
+    "url": "https://www.bible.com/bible/111/Ruth.3.NIV"
+  },
+  {
+    "day": 357,
+    "reference": "Song of Solomon 2-4",
+    "url": "https://www.bible.com/bible/111/SongofSolomon.2.NIV"
+  },
+  {
+    "day": 358,
+    "reference": "Song of Solomon 5-7",
+    "url": "https://www.bible.com/bible/111/SongofSolomon.5.NIV"
+  },
+  {
+    "day": 359,
+    "reference": "Song of Solomon 8; Titus 1-2",
+    "url": "https://www.bible.com/bible/111/SongofSolomon.8.NIV"
+  },
+  {
+    "day": 360,
+    "reference": "Titus 3; Zechariah 1-2",
+    "url": "https://www.bible.com/bible/111/Titus.3.NIV"
+  },
+  {
+    "day": 361,
+    "reference": "Zechariah 3-5",
+    "url": "https://www.bible.com/bible/111/Zechariah.3.NIV"
+  },
+  {
+    "day": 362,
+    "reference": "Zechariah 6-8",
+    "url": "https://www.bible.com/bible/111/Zechariah.6.NIV"
+  },
+  {
+    "day": 363,
+    "reference": "Zechariah 9-11",
+    "url": "https://www.bible.com/bible/111/Zechariah.9.NIV"
+  },
+  {
+    "day": 364,
+    "reference": "Zechariah 12-14",
+    "url": "https://www.bible.com/bible/111/Zechariah.12.NIV"
+  },
+  {
+    "day": 365,
+    "reference": "Zephaniah 1-3",
+    "url": "https://www.bible.com/bible/111/Zephaniah.1.NIV"
+  }
+]
