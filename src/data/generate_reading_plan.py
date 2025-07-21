@@ -66,7 +66,7 @@ for day in range(1, total_days + 1):
     })
 
 # Write to JSON
-with open("reading-plan.json", "w", encoding="utf-8") as f:
+with open("../../docs/data/reading-plan.json", "w", encoding="utf-8") as f:
     json.dump(plan, f, indent=2, ensure_ascii=False)
 
 print("reading-plan.json generated with 365 days.")
