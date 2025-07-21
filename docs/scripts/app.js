@@ -49,30 +49,33 @@ document.addEventListener("DOMContentLoaded", function() {
             const ul = document.createElement("ul");
             group.forEach(dayObj => {
                 const encodedRef = encodeURIComponent(dayObj.reference);
+
+                // Checkbox for manual completion
+                const checkbox = document.createElement("input");
+                checkbox.type = "checkbox";
+                checkbox.checked = completedDays.includes(dayObj.day);
+                checkbox.style.marginRight = "0.5em";
+                checkbox.title = "Mark as completed";
+
+                checkbox.addEventListener("change", () => {
+                    if (checkbox.checked) {
+                        if (!completedDays.includes(dayObj.day)) {
+                            completedDays.push(dayObj.day);
+                        }
+                    } else {
+                        completedDays = completedDays.filter(d => d !== dayObj.day);
+                    }
+                    localStorage.setItem("completedDays", JSON.stringify(completedDays));
+                });
+
                 const dayLink = document.createElement("a");
                 dayLink.href = `https://www.biblegateway.com/passage/?search=${encodedRef}&version=${translation}`;
                 dayLink.textContent = `Day ${dayObj.day}: ${dayObj.reference}`;
                 dayLink.target = "_blank";
 
-                // Track visited/completed days
                 const dayItem = document.createElement("li");
                 dayItem.classList.add("day-item");
-
-                // Marker: check mark if completed, else circle
-                const marker = document.createElement("span");
-                marker.style.marginRight = "0.5em";
-                marker.textContent = completedDays.includes(dayObj.day) ? "✔️" : "◯";
-                dayItem.prepend(marker);
-
-                // When link is clicked, mark as completed
-                dayLink.addEventListener("click", () => {
-                    if (!completedDays.includes(dayObj.day)) {
-                        completedDays.push(dayObj.day);
-                        localStorage.setItem("completedDays", JSON.stringify(completedDays));
-                        marker.textContent = "✔️";
-                    }
-                });
-
+                dayItem.appendChild(checkbox);
                 dayItem.appendChild(dayLink);
                 ul.appendChild(dayItem);
             });
