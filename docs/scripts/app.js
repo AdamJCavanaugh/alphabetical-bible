@@ -3,6 +3,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     const readingPlanContainer = document.getElementById("reading-plan");
     const translationSelect = document.getElementById("translation-select");
+    const readingMethodSelect = document.getElementById("reading-method-select");
+    const readingPlans = {};
     let planData = [];
 
     // Load saved translation from localStorage, if any
@@ -11,8 +13,18 @@ document.addEventListener("DOMContentLoaded", function() {
         translationSelect.value = savedTranslation;
     }
 
+    const savedReadingMethod = localStorage.getItem("bibleReadingMethod");
+    const readingMethodValues = Array.from(readingMethodSelect.options).map(option => option.value);
+    if (readingMethodValues.includes(savedReadingMethod)) {
+        readingMethodSelect.value = savedReadingMethod;
+    }
+
     // Load completed days from localStorage
-    let completedDays = JSON.parse(localStorage.getItem("completedDays") || "[]");
+    const savedCompletedDaysByMethod = localStorage.getItem("completedDaysByMethod");
+    const completedDaysByMethod = savedCompletedDaysByMethod
+        ? JSON.parse(savedCompletedDaysByMethod)
+        : { chapters: JSON.parse(localStorage.getItem("completedDays") || "[]") };
+    let completedDays = completedDaysByMethod[readingMethodSelect.value] || [];
 
     function getFirstIncompleteDay() {
         for (let i = 1; i <= planData.length; i++) {
@@ -49,7 +61,8 @@ document.addEventListener("DOMContentLoaded", function() {
             } else {
                 completedDays = completedDays.filter(d => d !== dayObj.day);
             }
-            localStorage.setItem("completedDays", JSON.stringify(completedDays));
+            completedDaysByMethod[readingMethodSelect.value] = completedDays;
+            localStorage.setItem("completedDaysByMethod", JSON.stringify(completedDaysByMethod));
             renderPlan(translationSelect.value);
         });
 
@@ -130,18 +143,42 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
-    fetch("data/reading-plan.json")
-        .then(response => response.json())
-        .then(plan => {
-            planData = plan;
+    const plansToLoad = {
+        chapters: "data/reading-plan.json",
+        words: "data/word-reading-plan.json"
+    };
+
+    Promise.all(Object.entries(plansToLoad).map(([method, path]) =>
+        fetch(path)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Failed to load ${path}: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(plan => {
+                readingPlans[method] = plan;
+            })
+    ))
+        .then(() => {
+            planData = readingPlans[readingMethodSelect.value];
             renderPlan(translationSelect.value);
         })
         .catch(error => {
-            readingPlanContainer.textContent = "Failed to load reading plan.";
+            readingPlanContainer.textContent = `Failed to load reading plan: ${error.message}`;
         });
 
     translationSelect.addEventListener("change", function() {
         localStorage.setItem("bibleTranslation", this.value);
         renderPlan(this.value);
+    });
+
+    readingMethodSelect.addEventListener("change", function() {
+        localStorage.setItem("bibleReadingMethod", this.value);
+        if (readingPlans[this.value]) {
+            planData = readingPlans[this.value];
+            completedDays = completedDaysByMethod[this.value] || [];
+            renderPlan(translationSelect.value);
+        }
     });
 });
