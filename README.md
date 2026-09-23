@@ -6,6 +6,7 @@ This project provides a web-based, interactive Bible reading plan that guides yo
 
 - **365-Day Reading Plan:** Read through the whole Bible in one year, grouped into daily assignments.
 - **Translation Selector:** Choose from CSB, KJV, NKJV, NIV, ESV, or NASB. Your choice is remembered for future visits.
+- **Reading Method Selector:** Divide the year by chapters (the default plan) or by word count while keeping every reading on chapter boundaries. Your choice is remembered for future visits.
 - **Progress Tracking:** As you visit each day's reading, a check mark appears to show completion. Your progress is saved in your browser.
 - **Collapsible Groups:** Days are grouped in blocks of 10 for easy navigation. The group containing your next unread day is automatically expanded.
 - **Responsive Design:** Clean, simple interface that works on desktop and mobile.
@@ -17,8 +18,10 @@ AlphabeticalBible/
 ├── src/
 │   ├── data/
 │   │   ├── books.csv              # List of Bible books and chapter counts
-│   │   ├── reading-plan.json      # Generated 365-day reading plan
-│   │   └── generate_reading_plan.py # Script to generate reading-plan.json from books.csv
+│   │   ├── reading-plan.json      # Generated chapter-based reading plan
+│   │   ├── word-reading-plan.json  # Generated word-balanced reading plan
+│   │   ├── word-counts.csv         # KJV word counts for each chapter
+│   │   └── generate_reading_plan.py # Generates both plans from the source data
 │   ├── scripts/
 │   │   └── app.js                 # Main JavaScript for UI and logic
 │   ├── styles/
@@ -50,6 +53,7 @@ AlphabeticalBible/
 ## Usage
 
 - **Select Your Translation:** Use the dropdown at the top to pick your preferred Bible translation.
+- **Select Your Reading Method:** Choose chapters to use the original plan, or words to distribute the reading more evenly while always starting and ending at chapter boundaries.
 - **Track Your Progress:** Click a day's link to mark it as completed (check mark appears). Progress is saved automatically.
 - **Navigate Easily:** Only the group containing your next unread day is expanded by default. Expand/collapse other groups as needed.
 
